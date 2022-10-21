@@ -1,5 +1,5 @@
 {
-	"name": "ReactStart",
+	"name": "react-start",
 	"version": "1.0.0",
 	"description": "Starting project for rect applications without creating npx create-react-app. More control what you want and what you need",
 	"main": "index.js",
@@ -8,15 +8,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/zrebec/react-taskmanager.git"
+		"url": "git+https://github.com/zrebec/react-start.git"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/zrebec/react-taskmanager/issues"
+		"url": "https://github.com/zrebec/react-start/issues"
 	},
-	"homepage": "https://github.com/zrebec/react-taskmanager#readme",
+	"homepage": "https://github.com/zrebec/react-start#readme",
 	"devDependencies": {
 		"@babel/core": "^7.19.6",
 		"@babel/preset-react": "^7.18.6",
